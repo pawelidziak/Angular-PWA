@@ -1,7 +1,12 @@
-.mat-card {
-  width: 400px;
+.img-card {
   margin: 2rem auto;
+  padding: 24px;
+  @media (min-width: 544px) {
+    width: 400px;
+  }
+}
 
+.mat-card {
   .mat-card-actions {
     padding-top: 0;
   }
