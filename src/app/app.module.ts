@@ -3,6 +3,8 @@ import {NgModule} from '@angular/core';
 import {AppComponent} from './app.component';
 import {MatButtonModule, MatCardModule, MatToolbarModule} from '@angular/material';
 import {ImgCardComponent} from './img-card/img-card.component';
+import {ServiceWorkerModule} from '@angular/service-worker';
+import {environment} from '../environments/environment';
 
 @NgModule({
   declarations: [
@@ -11,6 +13,7 @@ import {ImgCardComponent} from './img-card/img-card.component';
   ],
   imports: [
     BrowserModule,
+    environment.production ? ServiceWorkerModule.register('ngsw-worker.js') : [],
 
     MatToolbarModule,
     MatCardModule,
