@@ -10,9 +10,9 @@
         "/Angular-PWA/favicon.ico",
         "/Angular-PWA/index.html",
         "/Angular-PWA/inline.318b50c57b4eba3d437b.bundle.js",
-        "/Angular-PWA/main.1499c495c31f21c5af96.bundle.js",
+        "/Angular-PWA/main.c0e92eb625485440bb0f.bundle.js",
         "/Angular-PWA/polyfills.b6b2cd0d4c472ac3ac12.bundle.js",
-        "/Angular-PWA/styles.7bd461a98737fde4acd3.bundle.css"
+        "/Angular-PWA/styles.5433142f71c5ad9492a2.bundle.css"
       ],
       "patterns": []
     },
@@ -26,20 +26,22 @@
         "/Angular-PWA/assets/icon-256x256.png",
         "/Angular-PWA/assets/icon-512x512.png"
       ],
-      "patterns": []
+      "patterns": [
+        "https:\\/\\/cataas\\.com\\/.*"
+      ]
     }
   ],
   "dataGroups": [],
   "hashTable": {
     "/Angular-PWA/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
     "/Angular-PWA/assets/icon-128x128.png": "f444fd3ae0dbc3be5741ef77cf9d0aa21bcdd9d5",
-    "/Angular-PWA/main.1499c495c31f21c5af96.bundle.js": "69465856780c36c866cb4cef769344b8ea85d528",
+    "/Angular-PWA/main.c0e92eb625485440bb0f.bundle.js": "e70f85cbc2cdc9e6b60869b460ba9af378b092af",
     "/Angular-PWA/assets/icon-152x152.png": "c439eef9906d5a1758700fbbc8ea38d7295eb1bb",
     "/Angular-PWA/polyfills.b6b2cd0d4c472ac3ac12.bundle.js": "b092f5c27ff4222179ae3e9e3164c8cc6caa09cf",
     "/Angular-PWA/assets/icon-256x256.png": "aa794bf00591bd06c9fee00126b321baa155ee8d",
-    "/Angular-PWA/styles.7bd461a98737fde4acd3.bundle.css": "2d54a334bf71713644c3c2f6aeed7da1ab2a647c",
+    "/Angular-PWA/styles.5433142f71c5ad9492a2.bundle.css": "2d54a334bf71713644c3c2f6aeed7da1ab2a647c",
     "/Angular-PWA/assets/icon-512x512.png": "ad9b5746e8a586f161f92b21f97c4cd81b157965",
     "/Angular-PWA/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/Angular-PWA/index.html": "fe3f61b930977f353be8d6b98c87bef0794a5a04"
+    "/Angular-PWA/index.html": "524558b3cf7070ecfd5dbeb57dc2c124fe0722e1"
   }
 }
